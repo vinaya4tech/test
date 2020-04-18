@@ -33,3 +33,6 @@ git log
 
 6. To see the difference 
 
+git diff HEAD
+
+
