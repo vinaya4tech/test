@@ -1,0 +1,11 @@
+1. add files to github 
+
+1. git init  --- to inlialise the repository 
+
+
+2 - To add the configurations
+
+git remote add origin https://github.com/vinaya4tech/Djangotesting.git
+
+git config --global user.name "vinaya4tech"
+git config --global user.email vinay.kumar@afourtech.com
