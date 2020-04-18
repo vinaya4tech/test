@@ -36,6 +36,3 @@ git log
 git diff HEAD
 
 
-7. Commit and revert back 
-
-
