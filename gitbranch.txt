@@ -1,3 +1,4 @@
 1. Branch - to list out the git branch 
 2. git checkout branchnae 
 3. git status
+4. Added new file to merage with master 
